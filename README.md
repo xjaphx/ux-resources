@@ -13,3 +13,4 @@ The comprehensive bookmark of sites for User Experiences news, articles, design,
 1. http://konigi.com/
 1. http://www.montparnas.com/articles/what-is-user-experience-design/
 1. http://www.useit.com/
+1. http://thinkvitamin.com/
