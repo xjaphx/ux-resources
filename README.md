@@ -15,3 +15,4 @@ The comprehensive bookmark of sites for User Experiences news, articles, design,
 1. http://www.useit.com/
 1. http://thinkvitamin.com/
 1. http://clixpy.com/
+1. http://www.loop11.com/
