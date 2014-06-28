@@ -18,3 +18,4 @@ The comprehensive bookmark of sites for User Experiences news, articles, design,
 1. http://www.loop11.com/
 1. http://www.uxroast.com/
 1. http://www.beyondkinetic.com/motion-ui-design-principles/
+1. http://www.smashingmagazine.com/category/uxdesign/
